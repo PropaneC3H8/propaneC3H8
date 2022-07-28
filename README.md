@@ -11,6 +11,7 @@
 <a target="_blank" href="mailto:v.nongena@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</br>
 
 ## I'm an Electronic Communications Enngineer & FullStack Developer
 - 🔭 I'm currently working as an IoT consultant

@@ -47,4 +47,9 @@
 
 ## **Time Metrics**
 <!--START_SECTION:waka-->
+
+```text
+Other    12 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   41.82 %
+```
+
 <!--END_SECTION:waka-->

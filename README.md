@@ -13,7 +13,7 @@
 </a>
 </br>
 
-## I'm an Electronic Communications Enngineer & FullStack Developer
+## I'm an Electronic Communications Engineer & FullStack Developer
 - 🔭 I'm currently working as an IoT consultant
 - 🌱 I'm currenlty learning everything, because, DevOps 🤦🏽‍♂️🤣 
 - 🥅 [Near] Future Goals: Obtain Cloud DevOps certifications and contribute more to open source projects.

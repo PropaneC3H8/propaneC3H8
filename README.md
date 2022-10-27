@@ -49,7 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other    12 hrs 28 mins  ██████████▓░░░░░░░░░░░░░░   43.05 %
+From: 27 July 2022 - To: 23 October 2022
+
+Total Time: 241 hrs 12 mins
+
+C#             97 hrs 17 mins  >>>>>>>>>>---------------   40.34 %
+Blazor         64 hrs 52 mins  >>>>>>>------------------   26.90 %
+Other          63 hrs 17 mins  >>>>>>>------------------   26.24 %
 ```
 
 <!--END_SECTION:waka-->

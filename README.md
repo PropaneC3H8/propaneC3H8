@@ -49,12 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2022 - To: 14 December 2022
+From: 27 July 2022 - To: 15 December 2022
 
-Total Time: 478 hrs 15 mins
+Total Time: 487 hrs 31 mins
 
-C#             169 hrs 26 mins >>>>>>>>>----------------   35.43 %
-Other          136 hrs 36 mins >>>>>>>------------------   28.56 %
+C#             170 hrs 35 mins >>>>>>>>>----------------   34.99 %
+Other          141 hrs 31 mins >>>>>>>------------------   29.03 %
 ```
 
 <!--END_SECTION:waka-->

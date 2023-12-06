@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2022 - To: 03 December 2023
+From: 27 July 2022 - To: 04 December 2023
 
-Total Time: 1,529 hrs 15 mins
+Total Time: 1,532 hrs 54 mins
 
-Blazor             405 hrs 57 mins >>>>>>>------------------   26.55 %
-C#                 382 hrs 44 mins >>>>>>-------------------   25.03 %
-Other              229 hrs 50 mins >>>>---------------------   15.03 %
-Binary             196 hrs 53 mins >>>----------------------   12.88 %
-Terraform          112 hrs 4 mins  >>-----------------------   07.33 %
+Blazor             405 hrs 57 mins >>>>>>>------------------   26.48 %
+C#                 385 hrs 44 mins >>>>>>-------------------   25.16 %
+Other              229 hrs 50 mins >>>>---------------------   14.99 %
+Binary             196 hrs 54 mins >>>----------------------   12.85 %
+Terraform          112 hrs 4 mins  >>-----------------------   07.31 %
 ```
 
 <!--END_SECTION:waka-->

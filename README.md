@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vuyisanani but you can call me Propane 🔥
 
-<a target="_blank" href="https://www.linkedin.com/in/vuyisanani-nongena-50394657/">
+<a target="_blank" href="https://www.linkedin.com/in/vuyisanani-nongena/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -13,10 +13,10 @@
 </a>
 </br>
 
-## I'm an Electronic Communications Engineer & FullStack Developer
-- 🔭 I'm currently working as an IoT consultant
-- 🌱 I'm currenlty learning everything, because, DevOps 🤦🏽‍♂️🤣 
-- 🥅 [Near] Future Goals: Obtain Cloud DevOps certifications and contribute more to open source projects.
+## I'm an Electronic Communications Engineer, FullStack Developer and Solution Architect
+- 🔭 I'm currently working as a Technical Solution Architect focusing on the IoT technology domain
+- 🌱 I'm currenlty learning everything, because, I look cool knowing it all 🤦🏽‍♂️🤣 
+- 🥅 [Near] Future Goals: Publish at least one of my passion projects and contribute more to open source projects. 
 - ⚡ Fun fact: I love creating, from producing music to software products - because, who doesn't love a challenge?
 ---
 

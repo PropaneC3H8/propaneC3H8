@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2022 - To: 05 October 2024
+From: 27 July 2022 - To: 06 October 2024
 
-Total Time: 1,838 hrs 42 mins
+Total Time: 1,839 hrs 10 mins
 
 C#                 526 hrs 7 mins  >>>>>>>------------------   28.61 %
 Blazor             405 hrs 52 mins >>>>>>-------------------   22.07 %
 Binary             251 hrs 24 mins >>>----------------------   13.67 %
-Other              232 hrs 9 mins  >>>----------------------   12.63 %
-Terraform          112 hrs 4 mins  >>-----------------------   06.10 %
+Other              232 hrs 9 mins  >>>----------------------   12.62 %
+Terraform          112 hrs 4 mins  >>-----------------------   06.09 %
 ```
 
 <!--END_SECTION:waka-->
